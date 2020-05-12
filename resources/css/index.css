@@ -1,0 +1,56 @@
+
+html{
+    font-size: 1px;
+}
+body{
+    font-size: 26rem;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    color: black;
+}
+h2{
+    font-size: 36rem;
+    font-weight: 800;
+    padding: 10rem 0;
+}
+
+/* header section */
+
+header h1{
+    text-align: center;
+    font-size: 56rem;
+    font-weight: 900;
+    margin: 40rem 0;
+    
+}
+header nav{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+    
+}
+
+/* Mission experience section */
+.mission{
+    margin: 40rem 0;
+    background-image: url("../images/background\ 2.0.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mission p{
+    padding: 10rem 0;
+    font-size: 30rem;
+
+}
+.mission-text{
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
